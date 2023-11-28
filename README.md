@@ -1,16 +1,10 @@
-# Student Management System
-
-This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
-
-![plot](https://github.com/BobsProgrammingAcademy/Student-Management-System/blob/master/students/static/images/homepage.png?raw=true)
-
+# Player Management System
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Run the application](#run-the-application)
 - [View the application](#view-the-application)
-- [Copyright and License](#copyright-and-license)
 
 
 ### Prerequisites
@@ -89,6 +83,4 @@ python manage.py runserver
 
 Go to http://127.0.0.1:8000/ to view the application.
 
-### Copyright and License
 
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
